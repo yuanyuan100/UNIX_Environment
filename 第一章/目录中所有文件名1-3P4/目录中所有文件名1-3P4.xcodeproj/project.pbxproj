@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		6462C56D1F038654003CC633 /* 目录中所有文件名1-3P4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "目录中所有文件名1-3P4"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6462C5701F038654003CC633 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		6462C5771F0394B7003CC633 /* apue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = apue.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				6462C5701F038654003CC633 /* main.c */,
+				6462C5771F0394B7003CC633 /* apue.h */,
 			);
 			path = "目录中所有文件名1-3P4";
 			sourceTree = "<group>";
@@ -249,6 +251,7 @@
 				6462C5761F038654003CC633 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
